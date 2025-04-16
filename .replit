@@ -1,0 +1,23 @@
+modules = ["python-3.12", "postgresql-16"]
+
+[nix]
+channel = "stable-24_05"
+
+[deployment]
+deploymentTarget = "gce"
+run = ["sh", "-c", "python main.py"]
+
+[[ports]]
+localPort = 8080
+externalPort = 80
+
+[workflows]
+
+[[workflows.workflow]]
+name = "Run"
+author = 7025354
+mode = "sequential"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "python main.py"

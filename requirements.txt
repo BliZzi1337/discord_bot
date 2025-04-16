@@ -1,0 +1,7 @@
+discord.py
+python-dotenv
+pytz
+aiohttp
+requests
+psycopg2-binary
+psycopg2-pool

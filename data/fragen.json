@@ -1,0 +1,98 @@
+[
+    {
+        "frage": "Mit welchem Schlüsselwort beginnt eine SQL-Abfrage?",
+        "antworten": [
+            "READ",
+            "SELECT",
+            "GIVE",
+            "ERMITTLE"
+        ],
+        "richtig": 1,
+        "punkte": 2,
+        "lernfeld": "LF5"
+    },
+    {
+        "frage": "Mit welchem Befehl wird die Ergebnismenge einer SQL-Abfrage sortiert?",
+        "antworten": [
+            "SORT",
+            "SORT BY",
+            "GROUP BY",
+            "ORDER BY"
+        ],
+        "richtig": 3,
+        "punkte": 2,
+        "lernfeld": "LF5"
+    },
+    {
+        "frage": "Welcher SQL-Befehl ist keine Aggregatsfunktion?",
+        "antworten": [
+            "COUNT",
+            "CALC",
+            "SUM",
+            "AVG"
+        ],
+        "richtig": 1,
+        "punkte": 3,
+        "lernfeld": "LF5"
+    },
+    {
+        "frage": "Welche SQL-Befehle werden nicht zur Manipulation von Tabellen verwendet?",
+        "antworten": [
+            "CREATE TABLE",
+            "DROP TABLE",
+            "SELECT TABLE",
+            "INSERT INTO"
+        ],
+        "richtig": 2,
+        "punkte": 2,
+        "lernfeld": "LF5"
+    },
+    {
+        "frage": "Was bewirkt folgende Anweisung? UPDATE Mitarbeiter SET TelNr = NULL",
+        "antworten": [
+            "SQL-Anweisung schreibt eine „0“ in die Spalte TelNr.",
+            "SQL-Anweisung löscht die TelNr von allen Mitarbeitern.",
+            "SQL-Anweisung schreibt „NULL“ in die Spalte TelNr.",
+            "SQL-Anweisung löscht alle Mitarbeiter."
+        ],
+        "richtig": 2,
+        "punkte": 2,
+        "lernfeld": "LF5"
+    },
+    {
+        "frage": "Welche SQL-Anweisung fügt neue Daten in eine Tabelle ein?",
+        "antworten": [
+            "INSERT INTO",
+            "UPDATE",
+            "ALTER TABLE",
+            "SELECT INTO"
+        ],
+        "richtig": 0,
+        "punkte": 2,
+        "lernfeld": "LF5"
+    },
+    {
+        "frage": "Was ist ein Fremdschlüssel (Foreign Key)?",
+        "antworten": [
+            "Ein eindeutiger Primärschlüssel",
+            "Ein Verweis auf einen Datensatz in einer anderen Tabelle",
+            "Ein verschlüsselter Schlüssel",
+            "Ein Benutzerpasswort"
+        ],
+        "richtig": 1,
+        "punkte": 3,
+        "lernfeld": "LF5"
+    },
+    {
+        "frage": "Welche SQL-Anweisung wird zur Änderung von Daten verwendet?",
+        "antworten": [
+            "DELETE",
+            "INSERT INTO",
+            "UPDATE",
+            "SELECT"
+        ],
+        "richtig": 2,
+        "punkte": 2,
+        "lernfeld": "LF5"
+    }
+]

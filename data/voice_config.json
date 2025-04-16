@@ -1,0 +1,19 @@
+
+{
+    "default": {
+        "category_id": 1359066030609006602,
+        "log_channel_id": 1354030930892816414,
+        "base_channel_name": "🔊︱Talk #1",
+        "private_base_channel_name": "👥︱Unter vier Augen #1",
+        "channel_prefix": "🔊︱Talk #",
+        "private_channel_prefix": "👥︱Unter vier Augen #"
+    },
+    "1107964583928418324": {
+        "category_id": 1107964584519811164,
+        "log_channel_id": 1301004832076726323,
+        "base_channel_name": "『🎮』Gaming #1",
+        "private_base_channel_name": "🤝︱Privat #1",
+        "channel_prefix": "『🎮』Gaming #",
+        "private_channel_prefix": "🤝︱Privat #"
+    }
+}
